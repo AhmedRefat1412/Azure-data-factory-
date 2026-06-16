@@ -1,0 +1,13 @@
+{
+	"name": "LS_Databricks_Ecommerce",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-7405606098877547.7.azuredatabricks.net",
+			"existingClusterId": "0614-003813-24hbln1o",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDY1MjdCRUFFLThBNEUtNDcwQS1CNjA1LTY3M0QwMDZGQ0MxQV9mZDFhYzliMi01YzVhLTRhY2ItYjEwZi04NGVhOTY2ZjdiOWYiDQp9"
+		}
+	}
+}

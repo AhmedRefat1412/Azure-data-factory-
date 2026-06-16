@@ -1,0 +1,15 @@
+{
+	"name": "refat-ecommerce-dev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe3ac0a9-d76f-4dde-8837-db21158a6df3",
+		"tenantId": "0bc92751-071a-4e2c-a48b-633206fef374"
+	}
+}
