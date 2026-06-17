@@ -16,6 +16,9 @@
 		},
 		"LS_Databricks_Ecommerce_properties_typeProperties_existingClusterId": {
 			"value": "0614-003813-24hbln1o"
+		},
+		"LS_HTTP_Titanic_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
 		}
 	}
 }
